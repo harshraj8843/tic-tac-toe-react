@@ -2,16 +2,11 @@
 
 ---
 
-<p align="center"> A simple Tic Tac Toe Game in React (frontend)
-    <br> 
-</p>
-
 ## 📝 Table of Contents
 
 - [About](#about)
 - [Getting Started](#getting_started)
 - [Built Using](#built_using)
-- [Authors](#authors)
 
 ## 🧐 About <a name = "about"></a>
 
@@ -33,7 +28,7 @@ A simple Tic Tac Toe Game in React (frontend)
 
 - clone project
   ```
-  git clone https://github.com/harshraj8843/tic-tac-toe-react
+  git clone https://github.com/novicexp/tic-tac-toe-react
   ```
   ```
   cd tic-tac-toe-react/
@@ -51,8 +46,3 @@ A simple Tic Tac Toe Game in React (frontend)
 
 - [React](https://reactjs.org/)
 - [Atomize React](https://atomizecode.com/)
-
-## ✍️ Authors <a name = "authors"></a>
-
-- [@harshraj8843](https://github.com/harshraj8843)
-
