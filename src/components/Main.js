@@ -21,7 +21,7 @@ function Main() {
   const [log, setLog] = React.useState([]);
 
   // backend url
-  const [domain] = React.useState("http://127.0.0.1:8000/api");
+  const [domain] = React.useState("https://neukcodedemo.pythonanywhere.com/api");
 
   // win modals
   const [user_win_model, setUser_win_model] = React.useState(false);
