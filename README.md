@@ -28,7 +28,7 @@ A simple Tic Tac Toe Game in React (frontend)
 
 - clone project
   ```
-  git clone https://github.com/novicexp/tic-tac-toe-react
+  git clone https://github.com/harshraj8843/tic-tac-toe-react
   ```
   ```
   cd tic-tac-toe-react/
